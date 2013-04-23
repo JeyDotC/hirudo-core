@@ -1,4 +1,4 @@
-hirudo-core
+Hirudo Core
 ===========
 
-Hirdudo core library
+Hirdudo core library.
