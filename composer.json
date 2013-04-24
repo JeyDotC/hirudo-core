@@ -4,7 +4,7 @@
     "description": "Core classes of Hirudo",
     "keywords": ["Hirudo", "core"],
     "homepage": "https://github.com/JeyDotC/Hirudo",
-    "license": "GNU/GPL",
+    "license": "GNU-GPL",
     "authors": [
         {"name": "Jeysson Jose Guevara Mendivil", "email": "jeydotc@gmail.com"}
     ],
